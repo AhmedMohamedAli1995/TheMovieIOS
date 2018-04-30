@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (4.6.0)
+  - DropDown (2.3.1)
+  - SDWebImage (4.3.0):
+    - SDWebImage/Core (= 4.3.0)
+  - SDWebImage/Core (4.3.0)
+  - SwiftyJSON (4.0.0)
+  - WCLShineButton (1.0.7)
+
+DEPENDENCIES:
+  - Alamofire
+  - DropDown
+  - SDWebImage (~> 4.0)
+  - SwiftyJSON
+  - WCLShineButton
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  DropDown: 20499c7b2731b0d21609af924e47c7677a2be50d
+  SDWebImage: 6da6c8bca115addc4de8613362e1b15f66333825
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  WCLShineButton: d8b979b6f6f9f6709f9e241e6e1a4712a1a9b36b
+
+PODFILE CHECKSUM: d6d1015f56415548acddd9d92987e47c7342bf23
+
+COCOAPODS: 1.4.0

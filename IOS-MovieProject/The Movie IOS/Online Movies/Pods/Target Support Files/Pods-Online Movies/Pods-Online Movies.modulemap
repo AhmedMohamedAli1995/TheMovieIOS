@@ -1,0 +1,6 @@
+framework module Pods_Online_Movies {
+  umbrella header "Pods-Online Movies-umbrella.h"
+
+  export *
+  module * { export * }
+}
