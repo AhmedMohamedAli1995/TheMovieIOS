@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.6.0)
+  - Cosmos (14.0.0)
+  - DropDown (2.3.1)
+  - Dropdowns (2.0.0)
+  - ExpandableCell (1.2.2)
+  - SDWebImage (4.3.0):
+    - SDWebImage/Core (= 4.3.0)
+  - SDWebImage/Core (4.3.0)
+  - SwiftyJSON (4.0.0)
+  - WCLShineButton (1.0.7)
+  - YouTubePlayer (0.4.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Cosmos
+  - DropDown
+  - Dropdowns
+  - ExpandableCell
+  - SDWebImage (~> 4.0)
+  - SwiftyJSON
+  - WCLShineButton
+  - YouTubePlayer
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  Cosmos: 6dd44b65d587033e690ae1c350c875d262a23fda
+  DropDown: 20499c7b2731b0d21609af924e47c7677a2be50d
+  Dropdowns: 9dd32d9ac9cc59e56ae093b588d35477abde32d2
+  ExpandableCell: f2d99f9ae03a8c393e268adddaeb7f6d2525a76e
+  SDWebImage: 6da6c8bca115addc4de8613362e1b15f66333825
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  WCLShineButton: d8b979b6f6f9f6709f9e241e6e1a4712a1a9b36b
+  YouTubePlayer: 028451f6772f372d4759866db99824c676ac1473
+
+PODFILE CHECKSUM: 6a151d81c1a7d9b867fca9ec7558faa86da95bd9
+
+COCOAPODS: 1.4.0
